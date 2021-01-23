@@ -1,4 +1,4 @@
-# by Dr.J
+# by Minjeong Kim
 
 # 스크립트(script) 파일을 잘 여셨군요!
 # 지금부터 여기 쓰여진 설명들은 모두 코멘트(comment) 혹은 주석이라고 합니다.
